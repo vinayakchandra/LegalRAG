@@ -1,4 +1,4 @@
-# Law Chatbot
+# LegalRAG
 
 Law is an **AI-powered legal chatbot** designed to assist users with queries related to **Indian law**. It provides
 accurate legal information based on general legal knowledge and user-uploaded PDF documents. The chatbot is available
