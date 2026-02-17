@@ -1,6 +1,6 @@
-# ⚖️ Turn2Law AI Law Chatbot
+# Law Chatbot
 
-Turn2Law is an **AI-powered legal chatbot** designed to assist users with queries related to **Indian law**. It provides
+Law is an **AI-powered legal chatbot** designed to assist users with queries related to **Indian law**. It provides
 accurate legal information based on general legal knowledge and user-uploaded PDF documents. The chatbot is available
 via a **`FastAPI` backend API** and a **`Streamlit`-based web interface**.
 
